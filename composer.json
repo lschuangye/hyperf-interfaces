@@ -1,5 +1,6 @@
 {
     "name": "forpastime/hyperf-interfaces",
+    "version": "1.0.0",
     "description": "Hyperf json-rpc service interfaces",
     "type": "lib",
     "license": "MIT",
