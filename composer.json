@@ -1,0 +1,13 @@
+{
+    "name": "forpastime/hyperf-interfaces",
+    "description": "Hyperf json-rpc service interfaces",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Forpastime"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
